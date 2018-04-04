@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "axios": "^0.18.0",
+    "gsap": "^1.20.4",
     "vue": "^2.5.13"
   },
   "devDependencies": {
